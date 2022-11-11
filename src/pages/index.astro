@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import CaliMap from '../components/CaliMap';
+import CaliMap from '../components/CaliMap.jsx';
 ---
 
 <Layout>
@@ -11,10 +11,10 @@ import CaliMap from '../components/CaliMap';
 		}
 	</style>
 	<div id="indexMain">
+		<h1>This is the main page.</h1>
+		<CaliMap client:only='react' />
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
      	integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
      	crossorigin=""/>
-		<h1>This is the main page.</h1>
-		<CaliMap client:only='react' />
 	</div>
 </Layout>
