@@ -1,0 +1,11 @@
+[
+    {
+        "id": "a1a1",
+        "name": "Agua Fria",
+        "county": "Mariposa",
+        "gps": {
+            "latitude": "37.485",
+            "longitude": "-120.020278"
+        }
+    }
+]
