@@ -1,11 +1,82 @@
 [
     {
-        "id": "a1a1",
+        "id": "caabandoneda001",
         "name": "Agua Fria",
         "county": "Mariposa",
         "gps": {
+            "presence": "accurate",
             "latitude": "37.485",
             "longitude": "-120.020278"
+        }
+    },
+    {
+        "id": "caabandoneda002",
+        "name": "Agua Mansa",
+        "county": "San Bernadino",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "34.041944",
+            "longitude": "-117.363889"
+        }
+    },
+    {
+        "id": "caabandoneda003",
+        "name": "Alma",
+        "county": "Santa Clara",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "37.18",
+            "longitude": "-121.98"
+        }
+    },
+    {
+        "id": "caabandoneda004",
+        "name": "Amboy",
+        "county": "San Bernadino",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "34.556944",
+            "longitude": "-115.745"
+        }
+    },
+    {
+        "id": "caabandoneda005",
+        "name": "Ashford Mill",
+        "county": "Inyo",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "35.918889",
+            "longitude": "-116.684722"
+        }
+    },
+    {
+        "id": "caabandoneda006",
+        "name": "Ashphalto",
+        "county": "Kern",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "35.304722",
+            "longitude": "-119.600833"
+        }
+    },
+    {
+        "id": "caabandoneda007",
+        "name": "Atolia",
+        "county": "San Bernadino",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "35.314722",
+            "longitude": "-117.609167"
+        }
+    },
+    {
+        "id": "caabandoneda008",
+        "name": "Avena",
+        "county": "Inyo",
+        "gps": {
+            "presence": "innacurate",
+            "latitude": "37.385150",
+            "longitude": "-118.506486"
         }
     }
 ]
