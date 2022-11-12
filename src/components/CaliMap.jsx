@@ -24,17 +24,13 @@ const redIcon = L.icon({
     shadowSize: [68, 95]
 })
 
-
-
-export default function CaliMap() {
-    const mapRef = useRef();
-    
+export default function CaliMap(props) {
 
 
     return (
         <div id='CaliMapMain'>
             <h2>This is the CaliMap component</h2>
-            <MapContainer id='mapContainer' maxBounds={CalStateBounds} center={[37.42076433334728, -120.57716717888397]} zoom={7} scrollWheelZoom={true}>
+            <MapContainer fullscreenControl={true} id='mapContainer' maxBounds={CalStateBounds} center={[37.42076433334728, -120.57716717888397]} zoom={props.styling.zoom} scrollWheelZoom={true}>
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
