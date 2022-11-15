@@ -2,6 +2,7 @@
     {
         "id": "caabandoneda001",
         "name": "Agua Fria",
+        "status": "unmaintained",
         "county": "Mariposa",
         "gps": {
             "presence": "accurate",
@@ -12,6 +13,7 @@
     {
         "id": "caabandoneda002",
         "name": "Agua Mansa",
+        "status": "unmaintained",
         "county": "San Bernadino",
         "gps": {
             "presence": "accurate",
@@ -22,6 +24,7 @@
     {
         "id": "caabandoneda003",
         "name": "Alma",
+        "status": "unmaintained",
         "county": "Santa Clara",
         "gps": {
             "presence": "accurate",
@@ -32,6 +35,7 @@
     {
         "id": "caabandoneda004",
         "name": "Amboy",
+        "satus": "unmaintained",
         "county": "San Bernadino",
         "gps": {
             "presence": "accurate",
@@ -42,6 +46,7 @@
     {
         "id": "caabandoneda005",
         "name": "Ashford Mill",
+        "status": "unmaintained",
         "county": "Inyo",
         "gps": {
             "presence": "accurate",
@@ -52,6 +57,7 @@
     {
         "id": "caabandoneda006",
         "name": "Ashphalto",
+        "status": "unmaintained",
         "county": "Kern",
         "gps": {
             "presence": "accurate",
@@ -62,6 +68,7 @@
     {
         "id": "caabandoneda007",
         "name": "Atolia",
+        "status": "unmaintained",
         "county": "San Bernadino",
         "gps": {
             "presence": "accurate",
@@ -72,11 +79,177 @@
     {
         "id": "caabandoneda008",
         "name": "Avena",
+        "status": "unmaintained",
         "county": "Inyo",
         "gps": {
-            "presence": "innacurate",
+            "presence": "inaccurate",
             "latitude": "37.385150",
             "longitude": "-118.506486"
+        }
+    },
+    {
+        "id": "caabandonedb001",
+        "name": "Bagdad",
+        "status": "unmaintained",
+        "county": "San Bernadino",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "34.582778",
+            "longitude": "-115.875556"
+        }
+    },
+    {
+        "id": "caabandonedb002",
+        "name": "Ballarat",
+        "status": "unmaintained",
+        "county": "Inyo",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "36.047778",
+            "longitude": "-117.223333"
+        }
+    },
+    {
+        "id": "caabandonedb003",
+        "name": "Banta",
+        "status": "unmaintained",
+        "county": "San Joaquin",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "37.75444",
+            "longitude": "-121.36972"
+        }
+    },
+    {
+        "id": "caabandonedb004",
+        "name": "Barnes Settlement",
+        "status": "unmaintained",
+        "county": "Inyo",
+        "gps": {
+            "presence": "inaccurate",
+            "latitude": "35.276911",
+            "longitude": "-119.164316"
+        }
+    },
+    {
+        "id": "caabandonedb005",
+        "name": "Beeks Place",
+        "status": "unmaintained",
+        "county": "Orange",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "33.82049",
+            "longitude": "-117.63878"
+        }
+    },
+    {
+        "id": "caabandonedb006",
+        "name": "Belleville",
+        "status": "unmaintained",
+        "county": "San Bernardino",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "34.301111",
+            "longitude": "-116.884167"
+        }
+    },
+    {
+        "id": "caabandonedb007",
+        "name": "Bennettville",
+        "status": "unmaintained",
+        "county": "Mono",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "37.9375",
+            "longitude": "-119.260556"
+        }
+    },
+    {
+        "id": "caabandonedb008",
+        "name": "Bend City",
+        "status": "unmaintained",
+        "county": "Inyo",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "36.819167",
+            "longitude": "-118.130556"
+        }
+    },
+    {
+        "id": "caabandonedb009",
+        "name": "Benton",
+        "status": "unmaintained",
+        "county": "Mono",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "37.819167",
+            "longitude": "-118.476389"
+        }
+    },
+    {
+        "id": "caabandonedb010",
+        "name": "Bestville",
+        "status": "unmaintained",
+        "county": "Siskiyou",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "41.3007",
+            "longitude": "-123.1431"
+        }
+    },
+    {
+        "id": "caabandonedb011",
+        "name": "Blue Mountain",
+        "status": "unmaintained",
+        "county": "Calaveras",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "38.3708",
+            "longitude": "-120.36642"
+        }
+    },
+    {
+        "id": "caabandonedb012",
+        "name": "Bodie",
+        "status": "unmaintained",
+        "county": "Mono",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "38.212222",
+            "longitude": "-119.012222"
+        }
+    },
+    {
+        "id": "caabandonedb013",
+        "name": "Bondville",
+        "status": "unmaintained",
+        "county": "Mariposa",
+        "gps": {
+            "presence": "inaccurate",
+            "latitude": "37.516824",
+            "longitude": "-120.293368"
+        }
+    },
+    {
+        "id": "caabandonedb014",
+        "name": "Borel",
+        "status": "unmaintained",
+        "county": "Mariposa",
+        "gps": {
+            "presence": "unknown",
+            "latitude": "5",
+            "longitude": "5"
+        }
+    },
+    {
+        "id": "caabandonedb015",
+        "name": "Branson City",
+        "status": "unmaintained",
+        "county": "San Diego",
+        "gps": {
+            "presence": "accurate",
+            "latitude": "33.078056",
+            "longitude": "-116.617222"
         }
     }
 ]
