@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import MapCombiner from '../components/MapCombiner.jsx';
+import Map from '../components/Map.jsx';
 ---
 
 <Layout>
@@ -13,9 +13,6 @@ import MapCombiner from '../components/MapCombiner.jsx';
 	<div id="indexMain">
 		<h1>Abandoned California</h1>
 		<h2>Abandoned and Ghost Towns Mapped Out</h2>
-		<MapCombiner client:only='react' />
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
-     	integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
-     	crossorigin=""/>
+		<Map client:only="react" />
 	</div>
 </Layout>
